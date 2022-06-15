@@ -1,5 +1,5 @@
 # emailizer
-turn a list of full names into emails with the domain and format of your choice
+emailizer is a penetration testing Python tool allows you to take a textfile of full names (first name last name) and create a list of email addresses. You can choose your own domain (e.g. gmail.com). Please make sure that each full name is in its own line. 
 
 ```
 import sys
